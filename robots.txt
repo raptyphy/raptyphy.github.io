@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raptyphy.github.io/sitemap.html.gz
+Sitemap: https://raptyphy.github.io/app/sitemap.html.gz
+Sitemap: https://raptyphy.github.io/assets/sitemap.html.gz
+Sitemap: https://raptyphy.github.io/css/sitemap.html.gz
+Sitemap: https://raptyphy.github.io/includes/sitemap.html.gz
+Sitemap: https://raptyphy.github.io/item/sitemap.html.gz
+Sitemap: https://raptyphy.github.io/src/sitemap.html.gz
